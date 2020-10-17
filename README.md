@@ -1,5 +1,4 @@
-### Привет, я Филипп 👋
-<img src="https://komarev.com/ghpvc/?username=nieopierzony" alt="nieopierzony" />
+### Привет, я Филипп 👋 <img src="https://komarev.com/ghpvc/?username=nieopierzony" alt="nieopierzony" />
 
 Занимаюсь разработкой ботов, API на Node.JS и веб-приложений на Vue.JS.
 
