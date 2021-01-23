@@ -1,12 +1,10 @@
-### Привет, я Филипп 👋 <img src="https://komarev.com/ghpvc/?username=nieopierzony" alt="nieopierzony" />
+### Hi, I\`m Philipp 👋 <img src="https://komarev.com/ghpvc/?username=nieopierzony" alt="nieopierzony" />
 
-Занимаюсь разработкой ботов, API на Node.JS и веб-приложений на Vue.JS.
+## 📫 Contacts
 
-## 📫 Контакты
+You can easily find me in **[Telegram](https://t.me/nieopierzony)** or in Discord: **Филипп#2065**
 
-Вы можете меня быстро найти **[ВКонтакте](https://vk.com/id515866549)** или в Discord: **Филипп#2065**
-
-### 📊 Немного статистики
+### 📊 Some stats..
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
